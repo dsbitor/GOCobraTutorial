@@ -1,4 +1,4 @@
-# GOCobraTutorial
+# Go Cobra Tutorial
 Tutorial describing the use of the Cobra package for creating commands associated with CLI programs.
 ## Cobra - What is it
 Cobra provides a quick and very flexible facility to generate Command Line Interface (CLI) code, for an application or program. It is also a Go Package again called cobra, which is included in the generated code, or can be invoked without using the generated code. Parameters are entered when the program is executed.  Parameters follow the program name. The program name and parameters can be entered via the terminal interface, be embedded in a script, or called via another program. The program name and parameters are called the CLI. 
